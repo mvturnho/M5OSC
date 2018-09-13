@@ -28,10 +28,10 @@ Theta theta;
 
 xQueueHandle event_queue;
 
-//#define DEFAUT_SSID "KELPNET_UP"
-//#define DEFAULT_PWD "BabsDeKleineRat"
-#define EMU_SSID "KELPNET_MOBILE"
-#define EMU_PWD "GROENEPAARDENSCHOENEN"
+//#define DEFAUT_SSID "YOURSSID"
+//#define DEFAULT_PWD "PASSWORD"
+#define EMU_SSID "YOUR_SSID"
+#define EMU_PWD "PASSWORD"
 
 #define DEFAULT_SSID "THETAXS00130913.OSC"
 #define DEFAULT_PWD "00130913"
